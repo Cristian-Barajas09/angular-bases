@@ -6,3 +6,5 @@ sin los componentes standalone
 .gitkeep <- Es para decirle a git que le tiene que parar bolas a la carpeta
 
 ng serve <- para correr el server
+
+git checkout -- . <- devolverse al punto de quedo el commit
