@@ -1,0 +1,8 @@
+ng new <nombre de la aplicación> --standalone false
+para crear un nuevo proyecto de angular
+sin los componentes standalone
+
+
+.gitkeep <- Es para decirle a git que le tiene que parar bolas a la carpeta
+
+ng serve <- para correr el server
